@@ -1,0 +1,29 @@
+title: ZO Skin Health Dual-Action Scrub 116g
+body: >
+  Allsidig och effektiv ansiktspeeling som tar bort bakterier och bidrar till
+  en ren hud. Kemiska och fysiska exfolianter tar bort döda hudceller medan
+  Tea Tree-olja löser upp och tar bort överflödig talg.
+  Indikering: Fet till oren hud.
+  Användning: Appliceras på rengjord hud. Masseras lätt i cirkelrörelser i ca
+  1 minut. Används 2–7 ggr/vecka.
+  Ingredienser: Mjölksyra och salicylsyra (kemisk exfoliering), Syntetiskt
+  vax och kandelillavax (mekanisk exfoliering), Melaleuca alternifolia-bladolja/
+  teoljebuske (antibakteriell), Glycerol och natrium-PCA (återfuktande),
+  ZO-RRS2™ och ZOX12™ (antioxidanter, antiinflammatoriska).
+vendor: ZO Skin Health
+product_type: Exfoliering
+tags:
+  - zo-skin-health
+  - exfoliering
+  - oljig-hy
+  - akne
+variants:
+  - price: 995.00
+    sku: ZO-EXF-003
+    weight: 220
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+images:
+  - file_path: src/assets/PLACEHOLDER-zo-dual-action-scrub.jpg
+    alt: ZO Skin Health Dual-Action Scrub 116g

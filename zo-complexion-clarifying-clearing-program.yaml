@@ -1,0 +1,23 @@
+title: ZO Skin Health Kampanj – Complexion Clarifying Serum & Clearing Masque
+body: >
+  Duo med Complexion Clarifying Serum och Complexion Clearing Masque för
+  akne och orenheter, plus en gåva.
+  Indikering: Oljig och aknebenägen hud.
+vendor: ZO Skin Health
+product_type: Program
+tags:
+  - zo-skin-health
+  - program
+  - akne
+  - oljig-hy
+  - kampanj
+variants:
+  - price: 2170.00
+    sku: ZO-PRG-005
+    weight: 380
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+images:
+  - file_path: src/assets/PLACEHOLDER-zo-complexion-clarifying-clearing-program.jpg
+    alt: ZO Skin Health Complexion Clarifying Serum & Clearing Masque

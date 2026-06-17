@@ -1,0 +1,19 @@
+title: ZO Skin Health Soothing Ointment 50ml
+body: >
+  Djupt lugnande salva för mycket torr och känslig hud. Lindrar och skyddar irriterad hud. Indikering: Torr och känslig hud.
+vendor: ZO Skin Health
+product_type: Fuktkräm
+tags:
+  - zo-skin-health
+  - torr-hy
+  - kanslig-hy
+variants:
+  - price: 995.00
+    sku: ZO-FUK-004
+    weight: 120
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+images:
+  - file_path: src/assets/PLACEHOLDER-zo-soothing-ointment-50ml.jpg
+    alt: ZO Skin Health Soothing Ointment 50ml

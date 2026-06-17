@@ -1,0 +1,23 @@
+title: ZO Skin Health Radical Night Repair 60ml
+body: >
+  Kraftfullt nattserum med hög koncentration retinol för intensiv hudförnyelse
+  under natten. Reducerar djupa rynkor och förbättrar hudens lyster.
+  Indikering: Mogen hud med djupa rynkor som tål aktiv retinolbehandling.
+  Ingredienser: Hög koncentration retinol och reparerande peptider som
+  aktiveras under sömnen.
+vendor: ZO Skin Health
+product_type: Serum
+tags:
+  - zo-skin-health
+  - serum
+  - anti-age
+variants:
+  - price: 2425.00
+    sku: ZO-SER-014
+    weight: 120
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+images:
+  - file_path: src/assets/PLACEHOLDER-zo-radical-night-repair.jpg
+    alt: ZO Skin Health Radical Night Repair 50ml

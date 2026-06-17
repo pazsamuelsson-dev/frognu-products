@@ -1,0 +1,57 @@
+title: ZO Skin Health Daily Mineral Sunshade Broad-Spectrum SPF 30 45ml
+body: >
+  Dagligt mineralsolskydd SPF 30 i 6 nyanser anpassade för olika hudtoner.
+  Finns i FAIR, LIGHT, LIGHT MEDIUM, MEDIUM, TAN och DEEP.
+  Indikering: Alla hudtyper.
+vendor: ZO Skin Health
+product_type: Solskydd
+tags:
+  - zo-skin-health
+  - solskydd
+  - nyhet
+variants:
+  - option1: FAIR
+    price: 675.00
+    sku: ZO-SPF-011-FAIR
+    weight: 110
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+  - option1: LIGHT
+    price: 675.00
+    sku: ZO-SPF-011-LIGHT
+    weight: 110
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+  - option1: LIGHT MEDIUM
+    price: 675.00
+    sku: ZO-SPF-011-LM
+    weight: 110
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+  - option1: MEDIUM
+    price: 675.00
+    sku: ZO-SPF-011-MED
+    weight: 110
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+  - option1: TAN
+    price: 675.00
+    sku: ZO-SPF-011-TAN
+    weight: 110
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+  - option1: DEEP
+    price: 675.00
+    sku: ZO-SPF-011-DEEP
+    weight: 110
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+images:
+  - file_path: src/assets/PLACEHOLDER-zo-daily-mineral-sunshade-spf30.jpg
+    alt: ZO Skin Health Daily Mineral Sunshade Broad-Spectrum SPF 30 45ml

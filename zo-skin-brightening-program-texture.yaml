@@ -1,0 +1,22 @@
+title: ZO Skin Health Kampanj – Skin Brightening Program & Texture
+body: >
+  Utökat brightening-program med extra fokus på hudtextur och pigmentering.
+  Inkluderar fler produkter än standardprogrammet, plus en gåva.
+  Indikering: Alla hudtyper med pigmentering och ojämn hudtextur.
+vendor: ZO Skin Health
+product_type: Program
+tags:
+  - zo-skin-health
+  - program
+  - pigmentering
+  - kampanj
+variants:
+  - price: 3950.00
+    sku: ZO-PRG-002
+    weight: 700
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+images:
+  - file_path: src/assets/PLACEHOLDER-zo-skin-brightening-program-texture.jpg
+    alt: ZO Skin Health Skin Brightening Program & Texture

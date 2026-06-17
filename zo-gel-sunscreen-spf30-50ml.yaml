@@ -1,0 +1,22 @@
+title: ZO Skin Health Gel Sunscreen Broad-Spectrum SPF 30 96g
+body: >
+  Solskydd i gelform SPF 30. Lätt, icke-komedogen formel som lämpar sig
+  särskilt för oljig och aknebenägen hud. Nyhet i sortimentet.
+  Indikering: Oljig och blandhy.
+vendor: ZO Skin Health
+product_type: Solskydd
+tags:
+  - zo-skin-health
+  - solskydd
+  - oljig-hy
+  - nyhet
+variants:
+  - price: 755.00
+    sku: ZO-SPF-008
+    weight: 130
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+images:
+  - file_path: src/assets/PLACEHOLDER-zo-gel-sunscreen-spf30.jpg
+    alt: ZO Skin Health Gel Sunscreen Broad-Spectrum SPF 30 50ml

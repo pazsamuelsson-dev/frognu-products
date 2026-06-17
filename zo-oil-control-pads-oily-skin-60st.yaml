@@ -1,0 +1,25 @@
+title: ZO Skin Health Oil Control Pads Oily Skin 60 st
+body: >
+  Dagliga behandlingspads som kontrollerar talgproduktion och minimerar
+  utseendet av förstorade porer. Ger en mattare och klarare hud.
+  Indikering: Oljig och blandhy.
+  Användning: Appliceras på ren hud morgon och kväll. Ska inte sköljas av.
+  Ingredienser: Salicylsyra, glykolsyra och aktivt kol som reglerar talg
+  och exfolierar döda hudceller.
+vendor: ZO Skin Health
+product_type: Exfoliering
+tags:
+  - zo-skin-health
+  - exfoliering
+  - oljig-hy
+  - akne
+variants:
+  - price: 895.00
+    sku: ZO-EXF-004
+    weight: 160
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+images:
+  - file_path: src/assets/PLACEHOLDER-zo-oil-control-pads.jpg
+    alt: ZO Skin Health Oil Control Pads Oily Skin 60 st

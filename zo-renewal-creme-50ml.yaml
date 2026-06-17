@@ -1,0 +1,30 @@
+title: ZO Skin Health Renewal Crème 50ml
+body: >
+  En lätt kräm anpassad för alla hudtyper, även fet hud. Inkapslat retinol
+  bidrar till att reducera fina linjer, medan antioxidanter och antiirritanter
+  skyddar och lugnar ned huden.
+  Indikering: Lätt återfuktning för mild torrhet och fuktförlust. Lindrar och
+  minimerar rodnad.
+  Användning: Appliceras på ren, torr hud varje morgon eller efter behov.
+  Ingredienser: Ektoin, glycerin, natriumhyaluronat och jojobaester
+  (återupprättar fuktnivån), Avena sativa, epilobium angustifolium och
+  planktonextrakt (lindrar irritation), Lactococcus ferment lysate (stärker
+  hudbarriären), Polyglutaminsyra (återfuktar), Acetyl hexapeptid-8 (mjukar
+  upp uttryckslinjer), Retinol (cellförnyelse, kollagenproduktion).
+vendor: ZO Skin Health
+product_type: Fuktkräm
+tags:
+  - zo-skin-health
+  - fuktkram
+  - anti-age
+  - kanslig-hy
+variants:
+  - price: 1435.00
+    sku: ZO-FUK-001
+    weight: 140
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+images:
+  - file_path: src/assets/PLACEHOLDER-zo-renewal-creme.jpg
+    alt: ZO Skin Health Renewal Crème 50ml

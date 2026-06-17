@@ -1,0 +1,24 @@
+title: ZO Skin Health Growth Factor Serum 30ml
+body: >
+  Avancerat anti-age serum med tillväxtfaktorer som stimulerar kollagenproduktion
+  och hudförnyelse. Reducerar synliga ålderstecken och förbättrar hudens textur.
+  Indikering: Alla hudtyper med synliga tecken på åldrande.
+  Ingredienser: Tillväxtfaktorer, peptider och antioxidanter som återuppbygger
+  och förnyar huden på djupet.
+vendor: ZO Skin Health
+product_type: Serum
+tags:
+  - zo-skin-health
+  - serum
+  - anti-age
+  - nyhet
+variants:
+  - price: 2395.00
+    sku: ZO-SER-008
+    weight: 120
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+images:
+  - file_path: src/assets/PLACEHOLDER-zo-growth-factor-serum.jpg
+    alt: ZO Skin Health Growth Factor Serum 50ml

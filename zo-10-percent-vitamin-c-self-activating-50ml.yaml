@@ -1,0 +1,24 @@
+title: ZO Skin Health 10% Vitamin C Self-Activating 50ml
+body: >
+  Stabilt vitamin C-serum som aktiveras på huden för maximal effekt. Ljusar
+  upp hudtonen och skyddar mot miljömässiga skador.
+  Indikering: Alla hudtyper med pigmentering, ojämn hudton och tecken på åldrande.
+  Ingredienser: 10% vitamin C (L-askorbinsyra) som aktiveras vid kontakt med
+  huden, antioxidanter och peptider.
+vendor: ZO Skin Health
+product_type: Serum
+tags:
+  - zo-skin-health
+  - serum
+  - pigmentering
+  - anti-age
+variants:
+  - price: 1425.00
+    sku: ZO-SER-010
+    weight: 120
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+images:
+  - file_path: src/assets/PLACEHOLDER-zo-vitamin-c-self-activating.jpg
+    alt: ZO Skin Health 10% Vitamin C Self-Activating 50ml

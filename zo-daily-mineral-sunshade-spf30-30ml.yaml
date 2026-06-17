@@ -1,0 +1,20 @@
+title: ZO Skin Health Daily Mineral Sunshade SPF 30 45ml
+body: >
+  Dagligt mineralsolskydd SPF 30 med en naturlig, lätt finish. Nyhet i sortimentet.
+  Indikering: Alla hudtyper.
+vendor: ZO Skin Health
+product_type: Solskydd
+tags:
+  - zo-skin-health
+  - solskydd
+  - nyhet
+variants:
+  - price: 675.00
+    sku: ZO-SPF-009
+    weight: 110
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+images:
+  - file_path: src/assets/PLACEHOLDER-zo-daily-mineral-sunshade-spf30.jpg
+    alt: ZO Skin Health Daily Mineral SunShade Broad-Spectrum SPF 30 30ml

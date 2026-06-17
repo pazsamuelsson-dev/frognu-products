@@ -1,0 +1,26 @@
+title: ZO Skin Health Complexion Clearing Masque 85g
+body: >
+  Djuprengörande lermask mot akne och orenheter. Absorberar överskottsfett och
+  renar porerna på djupet.
+  Indikering: Oljig och aknebenägen hud.
+  Användning: Appliceras på ren hud 1–2 ggr/vecka. Låt verka i 10 minuter och
+  skölj av.
+  Ingredienser: Kaolin, bentonite och salicylsyra som absorberar talg och
+  rengör på djupet.
+vendor: ZO Skin Health
+product_type: Exfoliering
+tags:
+  - zo-skin-health
+  - exfoliering
+  - akne
+  - oljig-hy
+variants:
+  - price: 675.00
+    sku: ZO-EXF-005
+    weight: 160
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+images:
+  - file_path: src/assets/PLACEHOLDER-zo-complexion-clearing-masque.jpg
+    alt: ZO Skin Health Complexion Clearing Masque 85g

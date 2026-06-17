@@ -1,0 +1,23 @@
+title: ZO Skin Health 3-Pack Brightening Sheet Masque
+body: >
+  Uppljusande arkmask i förpackning om 3 st. Ger omedelbar lyster och
+  reducerar synlig pigmentering. Perfekt för behandlingsboost.
+  Indikering: Alla hudtyper med pigmentering och matt hy.
+  Användning: Applicera masken på rent ansikte i 15–20 minuter.
+  Ingredienser: Vitamin C och uppljusande extrakt för omedelbar effekt.
+vendor: ZO Skin Health
+product_type: Exfoliering
+tags:
+  - zo-skin-health
+  - exfoliering
+  - pigmentering
+variants:
+  - price: 495.00
+    sku: ZO-EXF-007
+    weight: 120
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+images:
+  - file_path: src/assets/PLACEHOLDER-zo-brightening-sheet-masque.jpg
+    alt: ZO Skin Health 3-Pack Brightening Sheet Masque

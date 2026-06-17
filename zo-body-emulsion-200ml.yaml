@@ -1,0 +1,20 @@
+title: ZO Skin Health Body Emulsion 240ml
+body: >
+  Lätt och snabbabsorberande kroppslotionsom återfuktar och skyddar utan att
+  kännas fet. Indikering: Alla hudtyper på kroppen.
+  Ingredienser: Hyaluronsyra, ceramider och antioxidanter som återfuktar och
+  stärker hudbarriären.
+vendor: ZO Skin Health
+product_type: Kroppsprodukt
+tags:
+  - zo-skin-health
+variants:
+  - price: 995.00
+    sku: ZO-KRO-002
+    weight: 280
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+images:
+  - file_path: src/assets/PLACEHOLDER-zo-body-emulsion.jpg
+    alt: ZO Skin Health Body Emulsion 200ml

@@ -1,0 +1,23 @@
+title: ZO Skin Health Kampanj – Redness Relief + Barrier Defense Program
+body: >
+  Komplett program mot rosacea och känslig hud. Stärker hudbarriären och
+  reducerar synlig rodnad, plus en gåva.
+  Indikering: Känslig hud med rosacea och rodnad.
+vendor: ZO Skin Health
+product_type: Program
+tags:
+  - zo-skin-health
+  - program
+  - rosacea
+  - kanslig-hy
+  - kampanj
+variants:
+  - price: 2750.00
+    sku: ZO-PRG-003
+    weight: 500
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+images:
+  - file_path: src/assets/PLACEHOLDER-zo-redness-relief-program.jpg
+    alt: ZO Skin Health Redness Relief + Barrier Defense Program

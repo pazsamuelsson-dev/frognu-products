@@ -1,0 +1,25 @@
+title: ZO Skin Health Rozatrol 50ml
+body: >
+  Normaliserande serum mot rosacea och rodnad. Reducerar synlig rodnad och
+  kärlvidgning. Stärker hudbarriären för känslig och reaktiv hud.
+  Indikering: Känslig hud med rosacea och rodnad.
+  Ingredienser: Läkande och lugnande komplex som reducerar synlig rodnad och
+  stärker hudbarriären.
+vendor: ZO Skin Health
+product_type: Serum
+tags:
+  - zo-skin-health
+  - serum
+  - rosacea
+  - kanslig-hy
+  - bestseller
+variants:
+  - price: 1395.00
+    sku: ZO-SER-004
+    weight: 130
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+images:
+  - file_path: src/assets/PLACEHOLDER-zo-rozatrol.jpg
+    alt: ZO Skin Health Rozatrol 60ml

@@ -1,0 +1,23 @@
+title: ZO Skin Health Firming Serum 47ml
+body: >
+  Stramare och lyftande serum mot slapp hud och rynkor. Ger synlig uppstramning
+  och förbättrad hudelasticitet.
+  Indikering: Mogen hud med bristande spänst och synliga rynkor.
+  Ingredienser: Peptidkomplex och hyaluronsyra som stärker hudstrukturen och
+  ger omedelbar uppstramning.
+vendor: ZO Skin Health
+product_type: Serum
+tags:
+  - zo-skin-health
+  - serum
+  - anti-age
+variants:
+  - price: 2800.00
+    sku: ZO-SER-007
+    weight: 120
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+images:
+  - file_path: src/assets/PLACEHOLDER-zo-firming-serum.jpg
+    alt: ZO Skin Health Firming Serum 50ml

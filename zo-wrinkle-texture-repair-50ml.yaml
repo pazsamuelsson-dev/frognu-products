@@ -1,0 +1,23 @@
+title: ZO Skin Health Wrinkle + Texture Repair 50ml
+body: >
+  Intensiv anti-age behandling mot djupa rynkor och ojämn hudtextur. Ger
+  synlig förbättring av rynkor och hudstruktur.
+  Indikering: Mogen hud med djupa rynkor och grov hudtextur.
+  Ingredienser: Höga halter retinol och peptider som intensivt behandlar
+  djupa rynkor och förbättrar hudtexturen.
+vendor: ZO Skin Health
+product_type: Serum
+tags:
+  - zo-skin-health
+  - serum
+  - anti-age
+variants:
+  - price: 1995.00
+    sku: ZO-SER-013
+    weight: 120
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+images:
+  - file_path: src/assets/PLACEHOLDER-zo-wrinkle-texture-repair.jpg
+    alt: ZO Skin Health Wrinkle + Texture Repair 50ml

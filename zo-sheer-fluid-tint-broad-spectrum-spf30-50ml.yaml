@@ -1,0 +1,36 @@
+title: ZO Skin Health Sheer Fluid Tint Broad-Spectrum SPF 30 50ml
+body: >
+  Tonat lätt solskydd SPF 30 som ger ett naturligt jämnt utseende.
+  Finns i tre nyanser: FAIR-LIGHT, LIGHT-MEDIUM och MEDIUM-TAN.
+  Indikering: Alla hudtyper.
+vendor: ZO Skin Health
+product_type: Solskydd
+tags:
+  - zo-skin-health
+  - solskydd
+  - nyhet
+variants:
+  - option1: FAIR-LIGHT
+    price: 675.00
+    sku: ZO-SPF-010-FL
+    weight: 110
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+  - option1: LIGHT-MEDIUM
+    price: 675.00
+    sku: ZO-SPF-010-LM
+    weight: 110
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+  - option1: MEDIUM-TAN
+    price: 675.00
+    sku: ZO-SPF-010-MT
+    weight: 110
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+images:
+  - file_path: src/assets/PLACEHOLDER-zo-sheer-fluid-tint-spf30.jpg
+    alt: ZO Skin Health Sheer Fluid Tint Broad-Spectrum SPF 30 50ml

@@ -1,0 +1,25 @@
+title: ZO Skin Health Neck Complex Anti-Aging + Brightening Serum 50ml
+body: >
+  Specialdesignat serum för hals och dekolletage mot ålderstecken och
+  pigmentering. Stramar upp och ljusar upp det känsliga halspartiet.
+  Indikering: Hals och dekolletage med tecken på åldrande och pigmentering.
+  Ingredienser: Peptider, retinol och uppljusande komplex anpassade för
+  halsens känsligare hud.
+vendor: ZO Skin Health
+product_type: Serum
+tags:
+  - zo-skin-health
+  - serum
+  - anti-age
+  - pigmentering
+  - nyhet
+variants:
+  - price: 1650.00
+    sku: ZO-SER-020
+    weight: 120
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+images:
+  - file_path: src/assets/PLACEHOLDER-zo-neck-complex-serum.jpg
+    alt: ZO Skin Health Neck Complex Anti-Aging + Brightening Serum 50ml

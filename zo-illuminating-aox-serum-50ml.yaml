@@ -1,0 +1,24 @@
+title: ZO Skin Health Illuminating AOX Serum 50ml
+body: >
+  Uppljusande antioxidantserum mot pigmentering och ojämn hudton. Ger en
+  strålande och jämn hy.
+  Indikering: Alla hudtyper med pigmentering eller ojämn hudton.
+  Ingredienser: Höga halter av vitamin C och antioxidanter som bekämpar fria
+  radikaler och hämmar melaninproduktionen.
+vendor: ZO Skin Health
+product_type: Serum
+tags:
+  - zo-skin-health
+  - serum
+  - pigmentering
+  - anti-age
+variants:
+  - price: 2200.00
+    sku: ZO-SER-009
+    weight: 120
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+images:
+  - file_path: src/assets/PLACEHOLDER-zo-illuminating-aox-serum.jpg
+    alt: ZO Skin Health Illuminating AOX Serum 50ml

@@ -1,0 +1,22 @@
+title: ZO Skin Health Hydrating Crème 113g
+body: >
+  En rik fuktkräm för normal till torr hud som återfuktar på djupet och
+  stärker hudbarriären. Indikering: Normal till torr hud.
+  Ingredienser: Hyaluronsyra, ceramider och naturliga lipider som återfuktar
+  och skyddar mot fuktförlust.
+vendor: ZO Skin Health
+product_type: Fuktkräm
+tags:
+  - zo-skin-health
+  - fuktkram
+  - torr-hy
+variants:
+  - price: 1475.00
+    sku: ZO-FUK-003
+    weight: 200
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+images:
+  - file_path: src/assets/PLACEHOLDER-zo-hydrating-creme.jpg
+    alt: ZO Skin Health Hydrating Crème 113g

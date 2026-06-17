@@ -1,0 +1,29 @@
+title: ZO Skin Health Recovery Crème 50ml
+body: >
+  Lugnande, rik kräm för torr och känslig hud. Ceramider återfuktar och
+  förebygger fuktförlust medan retinol bidrar till att reducera fina linjer
+  och rynkor. Stärker hudbarriären för en friskare hud.
+  Indikering: Torr och känslig hud.
+  Användning: Appliceras på ren, torr hud varje kväll eller efter behov.
+  Ingredienser: Ceramide NG, squalane och sheasmör (barriärskydd mot fuktförlust),
+  Lactococcus ferment lysate (stärker hudbarriären), Polyglutaminsyra (återfuktar),
+  Acetyl hexapeptid-8 (mjukar upp uttryckslinjer), ZCORE™/caprooyl tetrapeptide-3
+  (fastare hudstruktur), Retinol (cellförnyelse, kollagenproduktion).
+vendor: ZO Skin Health
+product_type: Fuktkräm
+tags:
+  - zo-skin-health
+  - fuktkram
+  - torr-hy
+  - kanslig-hy
+  - anti-age
+variants:
+  - price: 1535.00
+    sku: ZO-FUK-002
+    weight: 140
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+images:
+  - file_path: src/assets/PLACEHOLDER-zo-recovery-creme.jpg
+    alt: ZO Skin Health Recovery Crème 50ml

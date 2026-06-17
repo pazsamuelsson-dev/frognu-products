@@ -1,0 +1,27 @@
+title: ZO Skin Health Complexion Renewal Pads 60 st
+body: >
+  Reducerar överflödig talg och igensatta porer, samtidigt som den ger en
+  mattare hud. Kan användas dagligen och ska inte sköljas av.
+  Indikering: Normal till fet hud.
+  Användning: En pad används på ren och torr hud morgon och kväll.
+  Ingredienser: Salicylsyra (kemisk exfoliering, antiinflammatorisk, antibakteriell),
+  Glykolsyra (kemisk exfoliering), Urea (återfuktande),
+  Botanisk blandning (antioxidanter, antiirritanter).
+vendor: ZO Skin Health
+product_type: Exfoliering
+tags:
+  - zo-skin-health
+  - exfoliering
+  - oljig-hy
+  - akne
+  - bestseller
+variants:
+  - price: 755.00
+    sku: ZO-EXF-001
+    weight: 180
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+images:
+  - file_path: src/assets/PLACEHOLDER-zo-complexion-renewal-pads.jpg
+    alt: ZO Skin Health Complexion Renewal Pads 60 st

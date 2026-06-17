@@ -1,0 +1,28 @@
+title: ZO Skin Health Balancing Cleansing Emulsion 200ml
+body: >
+  En kliniskt beprövad rengöring som stöttar den skyddande hudbarriären och gör
+  huden lugn, smidig och stark. Parfym-, färg- och sulfatfri. Utvecklad speciellt
+  för känslig hud och för användning efter behandling.
+  Appliceras på torr hud morgon och kväll. Massera runt ansikte och ögon i ca
+  en minut. Skölj noggrant.
+  Ingredienser: Sockerhärledda emulgerande ämnen – sackaros laurate, sackaros
+  stearat, sackaros palmetat (mild rengöring utan att skada hudbarriären),
+  Bisabolol och havrekärnextrakt (lugnande), Caprylic/capric triglycerid och
+  ethylhexyl palmetat (mjukgörande, stöttar barriärfunktionen).
+vendor: ZO Skin Health
+product_type: Rengöring
+tags:
+  - zo-skin-health
+  - rengoring
+  - kanslig-hy
+  - nyhet
+variants:
+  - price: 665.00
+    sku: ZO-CLN-004
+    weight: 280
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+images:
+  - file_path: src/assets/PLACEHOLDER-zo-balancing-cleansing-emulsion.jpg
+    alt: ZO Skin Health Balancing Cleansing Emulsion 200ml

@@ -1,0 +1,26 @@
+title: ZO Skin Health Gentle Cleanser All Skin Types 200ml
+body: >
+  En mild rengöringsgelé som passar för alla hudtyper. Avlägsnar överflödigt
+  talg, orenheter och make up. Efterlämnar huden frisk och ren.
+  Indikering: Alla hudtyper. Kan användas som rakgel eller duschtvål.
+  Användning: Skumma upp produkten med lite vatten och massera ansikte och hals
+  i en minut. Skölj noga med vatten.
+  Ingredienser: Glycerol (återfuktande), Botanisk blandning (antioxidanter, antiirritanter).
+vendor: ZO Skin Health
+product_type: Rengöring
+tags:
+  - zo-skin-health
+  - rengoring
+  - kanslig-hy
+  - torr-hy
+  - bestseller
+variants:
+  - price: 635.00
+    sku: ZO-CLN-001
+    weight: 280
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+images:
+  - file_path: src/assets/PLACEHOLDER-zo-gentle-cleanser.jpg
+    alt: ZO Skin Health Gentle Cleanser All Skin Types 200ml

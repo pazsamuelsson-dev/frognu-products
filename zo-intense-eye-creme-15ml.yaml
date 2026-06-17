@@ -1,0 +1,22 @@
+title: ZO Skin Health Intense Eye Crème 15ml
+body: >
+  Intensiv ögonkräm mot fina linjer, mörka ringar och svullnad kring ögonen.
+  Indikering: Alla hudtyper med ålderstecken kring ögonpartiet.
+  Ingredienser: Retinol, peptider och koffein som reducerar fina linjer, mörka
+  ringar och svullnad utan att irritera den tunna huden.
+vendor: ZO Skin Health
+product_type: Ögonvård
+tags:
+  - zo-skin-health
+  - ogonvard
+  - anti-age
+variants:
+  - price: 1615.00
+    sku: ZO-OGN-002
+    weight: 80
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+images:
+  - file_path: src/assets/PLACEHOLDER-zo-intense-eye-creme.jpg
+    alt: ZO Skin Health Intense Eye Crème 15ml

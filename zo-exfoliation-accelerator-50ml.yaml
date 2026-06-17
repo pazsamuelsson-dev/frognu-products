@@ -1,0 +1,24 @@
+title: ZO Skin Health Exfoliation Accelerator 50ml
+body: >
+  Kraftfullt exfolieringsserum med glykolsyra som accelererar cellförnyelsen
+  och förbättrar hudens struktur och lyster.
+  Indikering: Alla hudtyper med ojämn hudtextur, fina linjer och pigmentering.
+  Ingredienser: Glykolsyra och enzymer som accelererar hudens naturliga
+  exfolieringsprocess.
+vendor: ZO Skin Health
+product_type: Serum
+tags:
+  - zo-skin-health
+  - serum
+  - anti-age
+  - pigmentering
+variants:
+  - price: 1075.00
+    sku: ZO-SER-012
+    weight: 130
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+images:
+  - file_path: src/assets/PLACEHOLDER-zo-exfoliation-accelerator.jpg
+    alt: ZO Skin Health Exfoliation Accelerator 50ml

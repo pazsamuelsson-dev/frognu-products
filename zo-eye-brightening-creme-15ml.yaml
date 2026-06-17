@@ -1,0 +1,24 @@
+title: ZO Skin Health Eye Brightening Crème 15g
+body: >
+  Uppljusande ögonkräm mot mörka ringar och ojämn hudton kring ögonen. Ger
+  ett piggare och mer ungdomligt utseende.
+  Indikering: Alla hudtyper med mörka ringar och pigmentering kring ögonen.
+  Ingredienser: Vitamin C, peptider och ljusreflekterande ämnen som motverkar
+  mörka ringar och ljusar upp ögonpartiet.
+vendor: ZO Skin Health
+product_type: Ögonvård
+tags:
+  - zo-skin-health
+  - ogonvard
+  - pigmentering
+  - anti-age
+variants:
+  - price: 1685.00
+    sku: ZO-OGN-003
+    weight: 80
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+images:
+  - file_path: src/assets/PLACEHOLDER-zo-eye-brightening-creme.jpg
+    alt: ZO Skin Health Eye Brightening Crème 15ml

@@ -1,0 +1,23 @@
+title: ZO Skin Health Peptide Facial Refining Concentrate 30ml
+body: >
+  Avancerat peptidserum som förfinar hudstrukturen och reducerar synliga
+  ålderstecken. Ger en slätare, fastare och mer ungdomlig hy.
+  Indikering: Alla hudtyper med ojämn hudtextur och tecken på åldrande.
+  Ingredienser: Multipelkomplex av bioaktiva peptider som stimulerar
+  kollagenproduktion och hudförnyelse.
+vendor: ZO Skin Health
+product_type: Serum
+tags:
+  - zo-skin-health
+  - serum
+  - anti-age
+variants:
+  - price: 3000.00
+    sku: ZO-SER-011
+    weight: 120
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+images:
+  - file_path: src/assets/PLACEHOLDER-zo-peptide-facial-refining-concentrate.jpg
+    alt: ZO Skin Health Peptide Facial Refining Concentrate 50ml

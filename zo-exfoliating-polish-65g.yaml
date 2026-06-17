@@ -1,0 +1,28 @@
+title: ZO Skin Health Exfoliating Polish 65g
+body: >
+  Effektiv peeling med fysikalisk exfoliant. Avlägsnar döda hudceller och
+  överflödigt talg som kan leda till tilltäppta porer. Kan användas både i
+  ansiktet och på kroppen.
+  Indikering: Alla hudtyper.
+  Användning: Appliceras på rengjord och lätt fuktad hud. Masseras lätt med
+  cirkelrörelser i ca 1 minut. Används 2–7 ggr/veckan.
+  Ingredienser: Mycket finkorniga magnesiumkristaller (mekanisk exfoliering),
+  Melaleuca alternifolia-bladolja/teoljebuske (antibakteriell, löser upp talg),
+  Glycerol och kaprin/kapryl-triglycerider (återfuktande ämnen, lipider,
+  barriärreparation), Tetrahexyldecyl askorbat (pigmenthämmare).
+vendor: ZO Skin Health
+product_type: Exfoliering
+tags:
+  - zo-skin-health
+  - exfoliering
+  - bestseller
+variants:
+  - price: 895.00
+    sku: ZO-EXF-002
+    weight: 160
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+images:
+  - file_path: src/assets/PLACEHOLDER-zo-exfoliating-polish.jpg
+    alt: ZO Skin Health Exfoliating Polish 65g

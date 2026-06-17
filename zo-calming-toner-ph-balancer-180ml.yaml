@@ -1,0 +1,28 @@
+title: ZO Skin Health Calming Toner pH Balancer 180ml
+body: >
+  Lugnande, pH-balanserande toner som reducerar orenheter och stärker en svag
+  och känslig hud.
+  Indikering: Torr till känslig hud.
+  Användning: Används morgon och kväll efter rengöring. Applicera på ansikte
+  och hals med en bomullspad. Undvik ögonområdet.
+  Ingredienser: Bladextrakt av amerikansk trollhassel/hamamelis virginiana
+  (astringerande, porminimering), Glykolsyra (kemisk exfoliering),
+  Pantenol, natriumhyaluronat och natrium-PCA (återfuktande),
+  Allantoin (antiirritant).
+vendor: ZO Skin Health
+product_type: Serum
+tags:
+  - zo-skin-health
+  - serum
+  - kanslig-hy
+  - torr-hy
+variants:
+  - price: 650.00
+    sku: ZO-SER-001
+    weight: 260
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+images:
+  - file_path: src/assets/PLACEHOLDER-zo-calming-toner.jpg
+    alt: ZO Skin Health Calming Toner pH Balancer 180ml

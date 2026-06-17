@@ -1,0 +1,19 @@
+title: ZO Skin Health Kampanj – Daily GSR + Skin Barrier Defense Program
+body: >
+  Startpaket med Gentle Cleanser 60ml, Exfoliating Polish 16.2g, Complexion Renewal Pads 30stk och Daily Power Defense 15ml. Komplett Getting Skin Ready-rutin.
+vendor: ZO Skin Health
+product_type: Program
+tags:
+  - zo-skin-health
+  - program
+  - kampanj
+variants:
+  - price: 1195.00
+    sku: ZO-PRG-009
+    weight: 400
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+images:
+  - file_path: src/assets/PLACEHOLDER-zo-daily-gsr-skin-barrier-defense-program.jpg
+    alt: ZO Skin Health Kampanj – Daily GSR + Skin Barrier Defense Program

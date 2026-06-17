@@ -1,0 +1,25 @@
+title: ZO Skin Health Retinol + Blemish Complex 50ml
+body: >
+  Kombinationsbehandling med retinol och salicylsyra mot akne och åldrande.
+  Reducerar synliga utbrott, fina linjer och ojämn hudton.
+  Indikering: Oljig och aknebenägen hud med tecken på åldrande.
+  Ingredienser: Retinol (cellförnyelse, kollagenproduktion), salicylsyra
+  (antibakteriell, exfoliering) och niacinamid (antiinflammatorisk).
+vendor: ZO Skin Health
+product_type: Serum
+tags:
+  - zo-skin-health
+  - serum
+  - akne
+  - anti-age
+  - oljig-hy
+variants:
+  - price: 1595.00
+    sku: ZO-SER-006
+    weight: 150
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+images:
+  - file_path: src/assets/PLACEHOLDER-zo-retinol-blemish-complex.jpg
+    alt: ZO Skin Health Retinol + Blemish Complex 60ml

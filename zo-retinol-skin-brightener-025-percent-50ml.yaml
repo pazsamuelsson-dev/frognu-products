@@ -1,0 +1,24 @@
+title: ZO Skin Health Retinol Skin Brightener 0.25% 50ml
+body: >
+  Uppljusande retinolbehandling med 0.25% retinol för nybörjare. Reducerar
+  pigmentering och fina linjer. Passar som introduktion till retinol.
+  Indikering: Alla hudtyper som är nya med retinolbehandling.
+  Ingredienser: 0.25% retinol och uppljusande komplex som motverkar
+  pigmentering och ålderstecken.
+vendor: ZO Skin Health
+product_type: Serum
+tags:
+  - zo-skin-health
+  - serum
+  - pigmentering
+  - anti-age
+variants:
+  - price: 1465.00
+    sku: ZO-SER-017
+    weight: 120
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+images:
+  - file_path: src/assets/PLACEHOLDER-zo-retinol-skin-brightener-025.jpg
+    alt: ZO Skin Health Retinol Skin Brightener 0.25% 50ml

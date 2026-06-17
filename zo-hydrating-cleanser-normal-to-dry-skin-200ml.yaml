@@ -1,0 +1,27 @@
+title: ZO Skin Health Hydrating Cleanser Normal to Dry Skin 200ml
+body: >
+  En skonsam rengöring som effektivt avlägsnar orenheter och make up.
+  Innehåller pantenol och allantoin som tillför fukt, lugnar ner och reducerar
+  irritation hos en känslig och torr hud.
+  Indikering: Normal till torr hud.
+  Användning: Skumma upp produkten med lite vatten och massera ansikte och hals
+  i en minut. Skölj noga med vatten.
+  Ingredienser: Natriumhyaluronat, pantenol, glycerin, natrium-PCA och urea
+  (återfuktande ämnen), Allantoin (antiirritant).
+vendor: ZO Skin Health
+product_type: Rengöring
+tags:
+  - zo-skin-health
+  - rengoring
+  - torr-hy
+  - kanslig-hy
+variants:
+  - price: 635.00
+    sku: ZO-CLN-002
+    weight: 280
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+images:
+  - file_path: src/assets/PLACEHOLDER-zo-hydrating-cleanser.jpg
+    alt: ZO Skin Health Hydrating Cleanser Normal to Dry Skin 200ml

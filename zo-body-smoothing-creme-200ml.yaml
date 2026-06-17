@@ -1,0 +1,21 @@
+title: ZO Skin Health Body Smoothing Crème 150g
+body: >
+  Slätande och återfuktande kroppskräm som förbättrar hudens textur och ger
+  mjuk, smidig hy. Indikering: Torr och ojämn kroppshud.
+  Ingredienser: Exfolierande syror och återfuktande ämnen som förbättrar
+  kroppshuden.
+vendor: ZO Skin Health
+product_type: Kroppsprodukt
+tags:
+  - zo-skin-health
+  - torr-hy
+variants:
+  - price: 995.00
+    sku: ZO-KRO-001
+    weight: 300
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+images:
+  - file_path: src/assets/PLACEHOLDER-zo-body-smoothing-creme.jpg
+    alt: ZO Skin Health Body Smoothing Crème 200ml

@@ -1,0 +1,23 @@
+title: ZO Skin Health Kampanj – Complexion Smoothing + Clarifying Program
+body: >
+  Komplett program mot akne, orenheter och ojämn hudtextur. Det mest
+  heltäckande akne-programmet i sortimentet, plus en gåva.
+  Indikering: Oljig och aknebenägen hud med ojämn textur.
+vendor: ZO Skin Health
+product_type: Program
+tags:
+  - zo-skin-health
+  - program
+  - akne
+  - oljig-hy
+  - kampanj
+variants:
+  - price: 4225.00
+    sku: ZO-PRG-006
+    weight: 750
+    inventory_management: shopify
+    inventory_policy: deny
+    requires_shipping: true
+images:
+  - file_path: src/assets/PLACEHOLDER-zo-complexion-smoothing-clarifying-program.jpg
+    alt: ZO Skin Health Complexion Smoothing + Clarifying Program
