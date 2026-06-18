@@ -24,5 +24,5 @@ variants:
     inventory_policy: deny
     requires_shipping: true
 images:
-  - file_path: src/assets/PLACEHOLDER-zo-exfoliating-polish.jpg
+  - file_path: src/assets/ZO Exfoliating Polish.jpg
     alt: ZO Skin Health Exfoliating Polish 65g

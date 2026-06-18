@@ -15,5 +15,5 @@ variants:
     inventory_policy: deny
     requires_shipping: true
 images:
-  - file_path: src/assets/PLACEHOLDER-zo-daily-gsr-skin-barrier-defense-program.jpg
+  - file_path: src/assets/GSR.jpg
     alt: ZO Skin Health Kampanj – Daily GSR + Skin Barrier Defense Program

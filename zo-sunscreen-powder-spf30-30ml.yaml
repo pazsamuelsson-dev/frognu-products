@@ -14,5 +14,5 @@ variants:
     inventory_policy: deny
     requires_shipping: true
 images:
-  - file_path: src/assets/PLACEHOLDER-zo-sunscreen-powder-spf30.jpg
+  - file_path: src/assets/ZO + powder broad spectrum.jpg
     alt: ZO Skin Health Sunscreen + Powder Broad-Spectrum SPF 30

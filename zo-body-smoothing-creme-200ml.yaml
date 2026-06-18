@@ -17,5 +17,5 @@ variants:
     inventory_policy: deny
     requires_shipping: true
 images:
-  - file_path: src/assets/PLACEHOLDER-zo-body-smoothing-creme.jpg
+  - file_path: src/assets/ZO Body Smoothing Creme.jpg
     alt: ZO Skin Health Body Smoothing Crème 200ml

@@ -21,5 +21,5 @@ variants:
     inventory_policy: deny
     requires_shipping: true
 images:
-  - file_path: src/assets/PLACEHOLDER-zo-oil-control-pads.jpg
+  - file_path: src/assets/ZO Oil Control Pads.jpg
     alt: ZO Skin Health Oil Control Pads Oily Skin 60 st

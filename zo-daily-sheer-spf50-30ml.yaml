@@ -14,5 +14,5 @@ variants:
     inventory_policy: deny
     requires_shipping: true
 images:
-  - file_path: src/assets/PLACEHOLDER-zo-daily-sheer-spf50.jpg
+  - file_path: src/assets/ZO Daily Sheer.jpg
     alt: ZO Skin Health Daily Sheer Broad-Spectrum SPF 50

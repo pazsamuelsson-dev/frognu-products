@@ -20,5 +20,5 @@ variants:
     inventory_policy: deny
     requires_shipping: true
 images:
-  - file_path: src/assets/PLACEHOLDER-zo-eye-brightening-creme.jpg
+  - file_path: src/assets/ZO Eye Brightening Crème.jpg
     alt: ZO Skin Health Eye Brightening Crème 15ml

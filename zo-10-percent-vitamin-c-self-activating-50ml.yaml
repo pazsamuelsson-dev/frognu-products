@@ -20,5 +20,5 @@ variants:
     inventory_policy: deny
     requires_shipping: true
 images:
-  - file_path: src/assets/PLACEHOLDER-zo-vitamin-c-self-activating.jpg
+  - file_path: src/assets/ZO C-vitamin.jpg
     alt: ZO Skin Health 10% Vitamin C Self-Activating 50ml

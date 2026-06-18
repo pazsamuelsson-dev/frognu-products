@@ -19,5 +19,5 @@ variants:
     inventory_policy: deny
     requires_shipping: true
 images:
-  - file_path: src/assets/PLACEHOLDER-zo-enzymatic-peel.jpg
+  - file_path: src/assets/ZO Enzymatic Peel.jpg
     alt: ZO Skin Health Enzymatic Peel 50ml

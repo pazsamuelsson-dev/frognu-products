@@ -25,5 +25,5 @@ variants:
     inventory_policy: deny
     requires_shipping: true
 images:
-  - file_path: src/assets/PLACEHOLDER-zo-dual-action-scrub.jpg
+  - file_path: src/assets/Dual action scrub.jpg
     alt: ZO Skin Health Dual-Action Scrub 116g

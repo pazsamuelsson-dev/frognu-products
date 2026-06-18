@@ -22,5 +22,5 @@ variants:
     inventory_policy: deny
     requires_shipping: true
 images:
-  - file_path: src/assets/PLACEHOLDER-zo-complexion-clearing-masque.jpg
+  - file_path: src/assets/ZO Complexion Clearing Masque.jpg
     alt: ZO Skin Health Complexion Clearing Masque 85g

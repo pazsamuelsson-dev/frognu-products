@@ -20,5 +20,5 @@ variants:
     inventory_policy: deny
     requires_shipping: true
 images:
-  - file_path: src/assets/PLACEHOLDER-zo-exfoliation-accelerator.jpg
+  - file_path: src/assets/ZO Exfoliating Accelerator.jpg
     alt: ZO Skin Health Exfoliation Accelerator 50ml

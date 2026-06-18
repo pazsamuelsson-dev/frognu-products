@@ -23,5 +23,5 @@ variants:
     inventory_policy: deny
     requires_shipping: true
 images:
-  - file_path: src/assets/PLACEHOLDER-zo-exfoliating-cleanser.jpg
+  - file_path: src/assets/Exfoliating Cleanser.jpg
     alt: ZO Skin Health Exfoliating Cleanser Normal to Oily Skin 200ml

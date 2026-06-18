@@ -21,5 +21,5 @@ variants:
     inventory_policy: deny
     requires_shipping: true
 images:
-  - file_path: src/assets/PLACEHOLDER-zo-rozatrol.jpg
+  - file_path: src/assets/ZO Rozatrol.jpg
     alt: ZO Skin Health Rozatrol 60ml

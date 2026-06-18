@@ -19,5 +19,5 @@ variants:
     inventory_policy: deny
     requires_shipping: true
 images:
-  - file_path: src/assets/PLACEHOLDER-zo-retinol-skin-brightener-05.jpg
+  - file_path: src/assets/Retinol Skin Brightner 0,5%.jpg
     alt: ZO Skin Health Retinol Skin Brightener 0.5% 50ml

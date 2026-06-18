@@ -19,5 +19,5 @@ variants:
     inventory_policy: deny
     requires_shipping: true
 images:
-  - file_path: src/assets/PLACEHOLDER-zo-firming-serum.jpg
+  - file_path: src/assets/ZO Firming Serum.jpg
     alt: ZO Skin Health Firming Serum 50ml

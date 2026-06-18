@@ -19,5 +19,5 @@ variants:
     inventory_policy: deny
     requires_shipping: true
 images:
-  - file_path: src/assets/PLACEHOLDER-zo-instant-pore-refiner.jpg
+  - file_path: src/assets/ZO Instant Pore Refiner.jpg
     alt: ZO Skin Health Instant Pore Refiner 30ml

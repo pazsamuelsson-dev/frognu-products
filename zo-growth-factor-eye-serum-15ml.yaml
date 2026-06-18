@@ -19,5 +19,5 @@ variants:
     inventory_policy: deny
     requires_shipping: true
 images:
-  - file_path: src/assets/PLACEHOLDER-zo-growth-factor-eye-serum.jpg
+  - file_path: src/assets/ZO Growth Factor Eye Serum.jpg
     alt: ZO Skin Health Growth Factor Eye Serum 15ml

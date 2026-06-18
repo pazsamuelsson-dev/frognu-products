@@ -23,5 +23,5 @@ variants:
     inventory_policy: deny
     requires_shipping: true
 images:
-  - file_path: src/assets/PLACEHOLDER-zo-hydrating-cleanser.jpg
+  - file_path: src/assets/Hydrating Cleanser.jpg
     alt: ZO Skin Health Hydrating Cleanser Normal to Dry Skin 200ml

@@ -25,5 +25,5 @@ variants:
     inventory_policy: deny
     requires_shipping: true
 images:
-  - file_path: src/assets/PLACEHOLDER-zo-recovery-creme.jpg
+  - file_path: src/assets/ZO Recovery Creme.jpg
     alt: ZO Skin Health Recovery Crème 50ml

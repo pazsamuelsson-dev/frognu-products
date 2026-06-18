@@ -20,5 +20,5 @@ variants:
     inventory_policy: deny
     requires_shipping: true
 images:
-  - file_path: src/assets/PLACEHOLDER-zo-growth-factor-serum.jpg
+  - file_path: src/assets/ZO Growth factor serum.jpg
     alt: ZO Skin Health Growth Factor Serum 50ml

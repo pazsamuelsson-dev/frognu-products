@@ -26,5 +26,5 @@ variants:
     inventory_policy: deny
     requires_shipping: true
 images:
-  - file_path: src/assets/PLACEHOLDER-zo-renewal-creme.jpg
+  - file_path: src/assets/ZO Renewal Creme.jpg
     alt: ZO Skin Health Renewal Crème 50ml
